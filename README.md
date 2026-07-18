@@ -29,8 +29,6 @@
 - 🚀 Currently learning **GraphQL, Docker & AWS**
 - 💬 Ask me about **React, Next.js, TypeScript, Node.js, Express.js, Prisma, MongoDB & PostgreSQL**
 - 🌐 Portfolio: **https://mahabub-portfolio.vercel.app**
--
-[//]: # (- 📄 Resume: **https://your-resume-link.com**)
 - 📝 I enjoy sharing knowledge and writing technical articles.
 - 📫 Email: **mahabub.sujon78@gmail.com**
 - ⚡ Fun Fact: **I love building scalable and modern web applications.**
@@ -41,25 +39,69 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/mahabub-alom-sujon">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-[//]: # (<a href="https://facebook.com/YOUR_USERNAME">)
-
-[//]: # (<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>)
-
-[//]: # (</a>)
-
-[//]: # (<a href="https://twitter.com/YOUR_USERNAME">)
-
-[//]: # (<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>)
-
-[//]: # (</a>)
 <a href="mailto:mahabub.sujon78@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
 # 💻 Technology Stack
+
+## 🚀 Languages:
+
+<p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+---
+
+## ⚛️ Frontend:
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite" />
+</p>
+
+---
+
+## ⚙️ Backend:
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+</p>
+
+---
+
+## 🗄️ Database & Model:
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
+</p>
+
+---
+
+## ☁️ Deployment:
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+</p>
+
+---
+
+## 🎨 Design:
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ai,ps"/>
+</p>
+
+---
+
+## 🛠 Tools & Technologies:
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,docker" />
+</p>
+
+---
