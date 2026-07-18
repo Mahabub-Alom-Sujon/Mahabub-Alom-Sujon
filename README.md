@@ -1,4 +1,5 @@
 [//]: # (# Mahabub Alom Sujon)
+
 <p align="center">
   <img
     src="https://github.com/Mahabub-Alom-Sujon/Mahabub-Alom-Sujon/blob/master/banner/github_banner.png?raw=true"
@@ -6,9 +7,11 @@
     width="100%"
   />
 </p>
+
 <h1 align="center">
-    Hi 👋, I'm Mahabub Alom Sujon
+  Hi 👋, I'm Mahabub Alom Sujon
 </h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -17,6 +20,7 @@
     />
   </a>
 </p>
+
 ## 👨‍💻 About Me
 
 - 👋 Hi, I'm **Mahabub Alom Sujon**
@@ -31,58 +35,57 @@
 - 📫 Email: **mahabub.sujon78@gmail.com**
 - ⚡ Fun Fact: **I love building scalable and modern web applications.**
 
----
 # 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/mahabub-alom-sujon">
+  <a href="https://linkedin.com/in/mahabub-alom-sujon">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mahabub.sujon78@gmail.com">
+  </a>
+  <a href="mailto:mahabub.sujon78@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  </a>
 </p>
 
----
 # 💻 Technology Stack
-## 🚀 Languages:
+
+## 🚀 Languages
+
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
----
-## ⚛️ Frontend:
+## ⚛️ Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite" />
 </p>
 
----
-## ⚙️ Backend:
+## ⚙️ Backend
+
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </p>
 
----
-## 🗄️ Database & Model:
+## 🗄️ Database & ORM
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
 </p>
 
----
-## ☁️ Deployment:
+## ☁️ Deployment
+
 <p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
 </p>
 
----
-## 🎨 Design:
+## 🎨 Design
+
 <p>
-<img src="https://skillicons.dev/icons?i=figma,ai,ps"/>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
 </p>
 
----
-## 🛠 Tools & Technologies:
-<p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,docker" />
-</p>
+## 🛠 Tools & Technologies
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,docker" />
+</p>
