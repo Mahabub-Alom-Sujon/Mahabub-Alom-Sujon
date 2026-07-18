@@ -48,44 +48,88 @@
 
 # 💻 Technology Stack
 
-## 🚀 Languages
+## 🚀 Languages:
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
-## ⚛️ Frontend
+## ⚛️ Frontend:
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite" />
 </p>
 
-## ⚙️ Backend
+## ⚙️ Backend:
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </p>
 
-## 🗄️ Database & ORM
+## 🗄️ Database & ORM:
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
 </p>
 
-## ☁️ Deployment
+## ☁️ Deployment:
 
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
 </p>
 
-## 🎨 Design
+## 🎨 Design:
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
 </p>
 
-## 🛠 Tools & Technologies
+## 🛠 Tools & Technologies:
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,docker" />
+</p>
+
+# 📈 GitHub Statistics & Analysis
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahabub-Alom-Sujon&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Mahabub-Alom-Sujon?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Mahabub-Alom-Sujon?affiliations=OWNER&style=for-the-badge&color=yellow" alt="Stars" />
+</p>
+
+## 📊 GitHub Statistics:
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Mahabub-Alom-Sujon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahabub-Alom-Sujon&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
+## 🔥 GitHub Streak:
+<p align="center">
+  <img
+    width="80%"
+    src="https://streak-stats.demolab.com?user=Mahabub-Alom-Sujon&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
+
+## 📈 Contribution Activity:
+
+<p align="center">
+  <a href="https://github.com/Mahabub-Alom-Sujon">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Mahabub-Alom-Sujon&theme=tokyo-night&hide_border=true&area=true"
+      width="100%"
+      alt="Mahabub Alom Sujon's Contribution Graph"
+    />
+  </a>
 </p>
