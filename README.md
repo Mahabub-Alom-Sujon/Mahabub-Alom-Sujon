@@ -9,7 +9,6 @@
 <h1 align="center">
     Hi 👋, I'm Mahabub Alom Sujon
 </h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -18,7 +17,6 @@
     />
   </a>
 </p>
-
 ## 👨‍💻 About Me
 
 - 👋 Hi, I'm **Mahabub Alom Sujon**
@@ -34,9 +32,7 @@
 - ⚡ Fun Fact: **I love building scalable and modern web applications.**
 
 ---
-
 # 🌐 Connect With Me
-
 <p align="left">
 <a href="https://linkedin.com/in/mahabub-alom-sujon">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -47,61 +43,46 @@
 </p>
 
 ---
-
 # 💻 Technology Stack
-
 ## 🚀 Languages:
-
 <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
 ---
-
 ## ⚛️ Frontend:
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite" />
 </p>
 
 ---
-
 ## ⚙️ Backend:
-
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </p>
 
 ---
-
 ## 🗄️ Database & Model:
-
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
 </p>
 
 ---
-
 ## ☁️ Deployment:
-
 <p>
 <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
 </p>
 
 ---
-
 ## 🎨 Design:
-
 <p>
 <img src="https://skillicons.dev/icons?i=figma,ai,ps"/>
 </p>
 
 ---
-
 ## 🛠 Tools & Technologies:
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,docker" />
 </p>
 
 ---
